@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/srigaut/code/srigaut/TaxiFareModel/mlruns/1/46fa3a4c52084cf8afa05f5aa3169b37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 46fa3a4c52084cf8afa05f5aa3169b37
+run_uuid: 46fa3a4c52084cf8afa05f5aa3169b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643744162022
+status: 1
+tags: []
+user_id: unknown
